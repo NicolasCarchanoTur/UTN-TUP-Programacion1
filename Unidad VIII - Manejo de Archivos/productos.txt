@@ -1,0 +1,4 @@
+Lapicera,500,30
+Sacapuntas,50,15
+Goma,70,28
+Pincel,180,15
